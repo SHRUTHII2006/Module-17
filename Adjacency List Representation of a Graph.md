@@ -103,12 +103,12 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-```
+
 
 
 ![image](https://github.com/user-attachments/assets/7b536fc6-4fa2-4d96-ae90-38be0981ecf6)
 
-```
+
 
 ## RESULT
  Thus the python program was written and executed successfully.
